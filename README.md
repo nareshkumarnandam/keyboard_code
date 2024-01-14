@@ -23,21 +23,21 @@ When the user performs the Ctrl key combinations mentioned above, sound effects 
 
 ### Technologies Used
 
--HTML
--CSS
--JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## How to Use
 
--Clone or download the repository to your local machine.
+- Clone or download the repository to your local machine.
 
 git clone https://github.com/nareshkumarnandam/keyboard_code.git
 
--Open the index.html file in your preferred web browser.
+- Open the index.html file in your preferred web browser.
 
--Press any key on the keyboard to see the key and keycode displayed.
+- Press any key on the keyboard to see the key and keycode displayed.
 
--Try Ctrl key combinations (Ctrl + C, Ctrl + V, Ctrl + X, Ctrl + Z, Ctrl + S) and enjoy the added sound effects.
+- Try Ctrl key combinations (Ctrl + C, Ctrl + V, Ctrl + X, Ctrl + Z, Ctrl + S) and enjoy the added sound effects.
 
 ## Project Structure
 
