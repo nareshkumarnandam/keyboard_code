@@ -12,10 +12,15 @@ On pressing any key, the application displays the key and its corresponding keyc
 ### Ctrl Key Combinations:
 
 `Ctrl + C: Copy`
+
 `Ctrl + V: Paste`
+
 `Ctrl + X: Cut`
+
 `Ctrl + Z: Undo`
+
 `Ctrl + S: Save`
+
 
 ### Sound Effects: 
 
@@ -24,7 +29,9 @@ When the user performs the Ctrl key combinations mentioned above, sound effects 
 ### Technologies Used
 
 - **HTML**
+
 - **CSS**
+
 - **JavaScript**
 
 ## How to Use
@@ -42,8 +49,11 @@ git clone https://github.com/nareshkumarnandam/keyboard_code.git
 ## Project Structure
 
 -**index.html:** The main HTML file containing the structure of the web page.
+
 -**style.css:** The CSS file for styling the HTML elements.
+
 -**script.js:** The JavaScript file containing the logic for handling keyboard events and playing sound effects.
+
 
 ## Dependencies
 
