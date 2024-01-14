@@ -11,11 +11,11 @@ On pressing any key, the application displays the key and its corresponding keyc
 
 ### Ctrl Key Combinations:
 
-Ctrl + C: Copy
-Ctrl + V: Paste
-Ctrl + X: Cut
-Ctrl + Z: Undo
-Ctrl + S: Save
+`Ctrl + C: Copy`
+`Ctrl + V: Paste`
+`Ctrl + X: Cut`
+`Ctrl + Z: Undo`
+`Ctrl + S: Save`
 
 ### Sound Effects: 
 
